@@ -1,4 +1,5 @@
 {
+  "name": "react-native-builder-bob-monorepo",
   "private": true,
   "workspaces": [
     "packages/*",
